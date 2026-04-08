@@ -1,8 +1,8 @@
 export default function PrivacyPage() {
   return (
-    <main className="max-w-3xl mx-auto px-4 py-10 text-sm leading-6 text-gray-800">
+    <main className="max-w-3xl mx-auto px-4 py-10 text-sm leading-6 text-gray-900 dark:text-gray-100 bg-white dark:bg-black">
       <h1 className="text-3xl font-semibold mb-4">Privacy Policy</h1>
-      <p className="mb-6 text-gray-500">Last updated: April 2026</p>
+      <p className="mb-6 text-gray-500 dark:text-gray-400">Last updated: April 2026</p>
 
       <Section title="1. Introduction">
         NatureLogs (“we,” “our,” or “us”) operates the <strong>Herp — by NatureLogs</strong> mobile application (the “App”).
